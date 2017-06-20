@@ -1,4 +1,4 @@
-<%-- 
+﻿<%-- 
     Document   : confirmarEliminar
     Created on : 27-05-2016, 23:04:57
     Author     : jonny
@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Eliminar</title>
+        <title>Confirmar Eliminar</title>
         <script src="js/jquery-1.12.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <link rel="stylesheet" href="css/bootstrap.css"/>
