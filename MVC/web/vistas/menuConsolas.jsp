@@ -18,9 +18,9 @@
             .container{
                 padding: 15px;
                 margin-top: 200px;
-                width: 600px;
-                height: 150px;
-                background: lavender;
+                width: 700px;
+                height: 250px;
+                background: red;
                 border-radius: 20px;
             }
             .btn{
